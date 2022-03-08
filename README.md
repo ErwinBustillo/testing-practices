@@ -22,6 +22,11 @@ There are three routes:
 The server persists using a SQLite3 database named `database.sqlite` in the site root.
 
 ## Development
+This project uses Editorconfig to standarize text editor configuration. Visit https://editorconfig.org for details.
+This project uses ESlint to detect suspicious code in Javascript files. Vasiti https://eslint.org for details.
+## Testing 
+this project uses Jest for testing. Visit https://jestjs.io for details. 
+To execute test: `npm run test`
 
 ### Debugging
 
